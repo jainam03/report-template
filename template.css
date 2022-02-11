@@ -1,9 +1,9 @@
 #container1 {
-	background-color: rgb(94, 133, 238);
-	font-size: 300%;
+	background-color: rgb(35, 89, 238);
+	font-size: 250%;
 	text-align: center;
 	text-decoration: underline;
-	font-family: Verdana, 'Geneva'	, Tahoma, sans-serif;
+	font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
 
 	padding-top: 1%;
 	padding-bottom: 5%;
@@ -13,6 +13,8 @@
 	margin-top: 2%;
 
 	border-radius: 20px;
+	
+	color: white;
 }
 
 #span2 {
@@ -33,14 +35,14 @@
 	background-color: white;
 	color: rgb(46, 97, 236);
 
-	padding-bottom: 25%;
+	padding-bottom: 20%;
 	padding-right: 7%;
 	padding-left: 7%;
 
 	margin-left: 1%;
 	margin-top: 5%;
 
-	line-height: 210%;
+	
 	
 
 }
