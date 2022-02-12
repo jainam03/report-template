@@ -3,7 +3,7 @@
 	font-size: 250%;
 	text-align: center;
 	text-decoration: underline;
-	font-family: 'Verdana', 'Geneva', 'Tahoma', 'sans-serif';
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif, 'Geneva', 'Tahoma', 'sans-serif';
 
 	padding-top: 1%;
 	padding-bottom: 5%;
@@ -36,6 +36,8 @@
 	/*background-color: white;*/
 	color: rgb(46, 97, 236);
 
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', 'Geneva', Verdana, sans-serif, 'Geneva', 'Tahoma', 'sans-serif';
+
 	padding-bottom: 20%;
 	padding-right: 7%;
 	padding-left: 3%;
@@ -44,10 +46,12 @@
 	margin-top: 6%;
 }
 
-#container3 {
+/*#container3 {
 	text-align: center;
-	color: rgb(46, 97, 236);
-}
+	color: blue;
+
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}*/
 
 #ntag2 {
 	text-align: right;
